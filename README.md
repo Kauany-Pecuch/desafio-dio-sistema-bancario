@@ -21,7 +21,7 @@ Acesse a primeria versão [aqui](https://github.com/Kauany-Pecuch/desafio-dio-si
 - **Função Criar conta** - agência, número da conta e usuário. Um usuário possui várias contas e uma conta pertence apenas a um usuário ;
 - **Função Sacar** - deve receber os argumentos apenas por nome;
 - **Função Depósito** - deve receber os argumentos apenas por posição;
-- **Função Visualizar Extrato** - deve receber os argumentos por posição e nome;
+- **Função Visualizar Extrato** - deve receber os argumentos por posição e nome.
 
 Acesse a segunda versão [aqui](https://github.com/Kauany-Pecuch/desafio-dio-sistema-bancario/blob/Main/v2.py).
 <h5 align= "center"> by Kauany Pecuch <h5>
