@@ -176,7 +176,7 @@ class Transacao(ABC):
         pass
 
 
-class Saque:
+class Saque(Transacao):
     def __init__(self, valor):
         self._valor = valor
 
@@ -191,7 +191,7 @@ class Saque:
             conta.historico.adicionar_transacao(self)
 
 
-class Deposito:
+class Deposito(Transacao):
     def __init__(self, valor):
         self._valor = valor
 
